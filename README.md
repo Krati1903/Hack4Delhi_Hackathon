@@ -1,7 +1,7 @@
 🚨 Vital: Code Execution & Results
 ⚠️ Evaluation Note for Judges: Due to specific environment dependencies required for high-density LiDAR decompression (laspy[lazrs]), the workflow is split to ensure stability.
 
-📍 WHERE TO LOOK: The final surface flow simulation, hotspot visualization, and risk mapping outputs are generated in the LAST TWO CELLS of the notebook.
+📍 WHERE TO LOOK: The final surface flow simulation, hotspot visualization, and risk mapping outputs are generated in the *LAST TWO CELLS* of the notebook.
 
 H.Y.D.R.A.
 Hyperlocal Yield & Drainage Risk Assessment
